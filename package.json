@@ -1,6 +1,6 @@
 {
   "name": "@padawanstrainer/select-multiple",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Componente HTML de tipo Select de selección simple o múltiple, con un campo de búsqueda para filtrar los valores de los options",
   "main": "main.js",
   "scripts": {

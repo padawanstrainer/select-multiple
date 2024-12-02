@@ -1,4 +1,4 @@
-# SEARCH MULTIPLE
+# SELECT MULTIPLE
 
 Componente HTML de tipo Select que permite la selección de múltiples opciones, con un campo de búsqueda (input de tipo text) para filtrar los valores del select.
 
